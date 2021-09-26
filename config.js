@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Tất nhiên là không rồi  :3',
     question:'Em có chấp nhận tha lỗi cho anh vì những điều xảy ra vừa qua và tiếp tục iu anh không? <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Dạ chồng, tất nhiên là em đồng ý rồi ạ
+    reply: 'Dạ chồng, tất nhiên là em đồng ý rồi ạ ',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Chúc em có một ngày hẹn hò kỉ niệm 1000days vui vẻ 
     btnAccept: 'Okiiiii lun <3',
