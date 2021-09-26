@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Thế là mình đã yêu nhau 10000days rồi đó
     Một hành trình rất dài 
     Được đi cùng Uyên là điều hạnh phúc nhất cuộc đời anh
-    Hôm nay đổi gió không viết thư tay nữa mà anh viết cái này cho em `,
+    Hôm nay đổi gió không viết thư tay nữa mà anh viết cái này cho em`,
     btnIntro: 'hihi',
     title: 'Em có muốn cùng anh tiếp tục hành trình của chúng mình hay không 😙',
     desc: 'Hay là em muốn làm mẹ của con anh ',
